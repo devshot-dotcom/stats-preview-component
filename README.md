@@ -30,7 +30,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github Repository](https://github.com/devshot-dotcom/stats-preview-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [devshot-dotcom.github.io/stats-preview-component](https://devshot-dotcom.github.io/stats-preview-component/)
 
 ## My process
 
